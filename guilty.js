@@ -3,7 +3,7 @@
 
 // PEP警察「JavaScriptさん、それはプロパティでは無くて、キーです。あと、オブジェクトじゃなくてdictです。連れていきますね」
 
-//JavaScript「ハァ？」
+//JavaScript「ハァ？💢」
 
 //裁判官「Guilty」
 
@@ -17,7 +17,7 @@
 "Guilty == "Guilty" 
   // true
 
-//Python「救いようないじゃん🤣」
+//Python「救いようないじゃん🫵🤣」
 
 //JavaScript「その指、へし折りたい」
 
@@ -29,9 +29,9 @@
 
 //Node「PEP国で、罪に問われて裁判にかけられているそうです」
 
-//TypeScript先生「はぁ...だからあれほどあの国には行くなと言ったのに」
+//TypeScript先生「はぁ...😮‍💨だからあれほどあの国には行くなと言ったのに」
 
-// ===== PEP国では裁判中 =====
+// ===== 尚、PEP国では裁判中 =====
 
 const info = {
   name: "JavaScript",
@@ -96,5 +96,5 @@ judgment = "Parole";
 
 //Python「あんたは、ECMAに帰れ」
 
-//JavaScript「もう、PEPはこりごりだよ！｝
+//JavaScript「もう、PEPはこりごりだよ！😡｣
 console.log("おわり");
