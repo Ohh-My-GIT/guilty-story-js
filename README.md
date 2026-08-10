@@ -1,5 +1,7 @@
 # guilty-story-js
 
+**PC推奨**
+
 > JavaScript has been arrested in PEP Land.
 
 *『郷に入っては郷に従え』| JavaScript、PEP国で逮捕される。*
