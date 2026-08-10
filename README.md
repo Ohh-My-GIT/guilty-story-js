@@ -12,10 +12,15 @@ JavaScriptがPEP国に訪れた結果、
 ## Charges
 
 -セミコロンの使用
+
 -`{}`による思想の違い
+
 -`dict`を「object」と呼ぶ
+
 -テンプレートリテラルを主張する
+
 -Pythonへの殺意を匂わせる
+
 -**その他:**　PEP国において極めてJavaScript的な行為
 
 ## Cast
